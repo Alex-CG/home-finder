@@ -10,7 +10,7 @@ import { HomeComponent } from "./pages/home/home.component";
       <header class="brand-name">
         <img class="brand-logo" src="assets/logo.svg" alt="logo" aria-hidden="true">
       </header>
-      <section>
+      <section class="content">
         <app-home></app-home>
       </section>
     </main>

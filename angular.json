@@ -29,12 +29,7 @@
               {
                 "glob": "**/*",
                 "input": "public",
-                "output": "/assets/"
-              },
-              {
-                "glob": "logo.svg",
-                "input": "src/app/assets/",
-                "output": "/assets/"
+                "output": "/"
               }
             ],
             "styles": [
